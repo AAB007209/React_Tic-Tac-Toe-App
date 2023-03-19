@@ -1,3 +1,22 @@
+# React Tic-Tac-Toe Application
+
+## Below are the Images of the Application
+
+### First look when the Application is opened
+![Initialview](https://user-images.githubusercontent.com/62844406/226158751-4c8cd61e-f2bb-43d3-983f-831214fb9217.jpg)
+
+### When Player starting first wins ("X" wins -> X - 1)
+![Xwin-1](https://user-images.githubusercontent.com/62844406/226158775-e52419c9-4f34-4a63-bd94-c18ca8027065.jpg)
+
+### When Player playing second wins ("O" wins -> O - 1)
+![Owin-1](https://user-images.githubusercontent.com/62844406/226158798-624aa411-2fda-4c42-bd06-faf543f76a73.jpg)
+
+### When Players have no move left they have to reset 
+![Reset-1](https://user-images.githubusercontent.com/62844406/226158816-df9e2712-9fda-40cb-93fb-0c45581b87f6.jpg)
+
+### Reset button used to reset the Board
+![Reset-2](https://user-images.githubusercontent.com/62844406/226158826-d9c09843-a532-490e-9e1f-368d0a18adec.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
