@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  background-image: linear-gradient(90deg, #fdfcfb 0%, #e2d1c3 100%);
+  font-family: 'Fredoka', sans-serif;
+}
